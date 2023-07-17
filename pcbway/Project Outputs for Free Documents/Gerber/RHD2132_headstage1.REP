@@ -1,0 +1,258 @@
+*************************************************************
+FileName = RHD2132_headstage1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Assembly
+      File : RHD2132_headstage1.GM22
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : RHD2132_headstage1.GM1
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D10
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : RHD2132_headstage1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : RHD2132_headstage1.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : RHD2132_headstage1.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : RHD2132_headstage1.GM15
+
+    Adding Layer      : Courtyard Top
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : RHD2132_headstage1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RHD2132_headstage1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Route3
+      File : RHD2132_headstage1.G2
+
+    Adding Layer      : Route3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : RHD2132_headstage1.GM8
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RHD2132_headstage1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RHD2132_headstage1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RHD2132_headstage1.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Route2
+      File : RHD2132_headstage1.G1
+
+    Adding Layer      : Route2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : RHD2132_headstage1.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RHD2132_headstage1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top
+      File : RHD2132_headstage1.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+

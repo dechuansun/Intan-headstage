@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RHD2132_headstage1.GBR   22/06/2023  2:19:44 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top                                     
+.GBL                Bottom                                  
+.G1                 Route2                                  
+.G2                 Route3                                  
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Dimension                               
+.GM8                Assembly Top                            
+.GM15               Courtyard Top                           
+.GM13               Mechanical 13                           
+.GM22               Top Assembly                            
+------------------------------------------------------------------------------------------

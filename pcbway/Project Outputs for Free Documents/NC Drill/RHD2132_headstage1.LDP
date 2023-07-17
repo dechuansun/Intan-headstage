@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: E:\intan board design\RHD2132_RHD2216_amp_board_PCB\FINAL\dechuan_luke\RHD2132_headstage1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rhd2132_headstage1.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Route2_Blind_Vias|DrillFile=rhd2132_headstage1.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_Route3_Blind_Vias|DrillFile=rhd2132_headstage1.tx2|DrillLayers=gtl,g1,g2
+LayersSetName=Route2_Route3_Buried_Vias|DrillFile=rhd2132_headstage1.tx3|DrillLayers=g1,g2
+LayersSetName=Route2_Bot_Blind_Vias|DrillFile=rhd2132_headstage1.tx4|DrillLayers=g1,g2,gbl
+LayersSetName=Route3_Bot_Blind_Vias|DrillFile=rhd2132_headstage1.tx5|DrillLayers=g2,gbl
