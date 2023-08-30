@@ -1,0 +1,9 @@
+Ultra small mouse headstage board for mosue intracanial electrode recording. 
+Use the intan RHX software for recording.
+Support 8 channels: Enable channels 8, 9, 12, 13, 20, 21, 22, and 23 in the software.
+Include the provided library in the project if re-design is needed.
+.PrjPcb project file
+.PcbDoc PCB layout file
+.SchDoc schematic file
+.PCBLIB .SCHLIB library files
+.others Gerber files
